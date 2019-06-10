@@ -1,5 +1,5 @@
 def create_an_empty_array
-  my+array = [ "think 1", "Thing two", "Think three", "think Four"]
+  my_rray = [ "think 1", "Thing two", "Think three", "think Four"]
 end
 
 def create_an_array
