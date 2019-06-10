@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   array = ["Think zero", "think 1", "think twice", "Think thrice"]
-  element = "arrays!"
+  element = "array"
   array << element
   puts array
 end
